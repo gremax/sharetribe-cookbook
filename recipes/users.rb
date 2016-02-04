@@ -8,7 +8,7 @@ app = node[:sharetribe][:app]
 
 group app.group do
   action :create
-  members ['vagrant', 'ubuntu']
+  members ['deployer']
   append true
 end
 

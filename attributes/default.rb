@@ -8,7 +8,7 @@ default[:sharetribe] = {
     :group => 'www-data'
   },
   :git => {
-    :repo => 'https://github.com/sharetribe/sharetribe.git',
+    :repo => 'https://github.com/gremax/sharetribe.git',
     :branch => 'master'
   },
   :db => {
